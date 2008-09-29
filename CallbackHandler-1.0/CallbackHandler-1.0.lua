@@ -1,4 +1,4 @@
---[[ $Id: CallbackHandler-1.0.lua 688 2008-09-26 20:39:43Z nevcairiel $ ]]
+--[[ $Id$ ]]
 local MAJOR, MINOR = "CallbackHandler-1.0", 3
 local CallbackHandler = LibStub:NewLibrary(MAJOR, MINOR)
 
