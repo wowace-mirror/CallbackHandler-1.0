@@ -8,4 +8,4 @@
 ## X-License: BSD-2.0
 
 LibStub\LibStub.lua
-CallbackHandler-1.0\CallbackHandler-1.0.xml
+CallbackHandler-1.0.xml
